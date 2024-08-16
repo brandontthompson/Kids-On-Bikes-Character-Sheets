@@ -1,0 +1,6 @@
+<!-- Save this as border.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 200 200" preserveAspectRatio="none">
+    <path d="M10,10 Q25,20 35,15 T55,25 T75,15 T100,30 T125,10 T145,25 T165,15 Q180,10 190,20
+             L190,180 Q175,170 165,185 T145,165 T125,180 T100,160 T75,185 T55,165 T35,180
+             Q25,175 10,190 Z" fill="none" stroke="#000" stroke-width="3" stroke-linecap="round" stroke-dasharray="7,4"/>
+</svg>
